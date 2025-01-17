@@ -1,0 +1,45 @@
+body {
+  background-color: hsl(47, 88%, 63%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div1 {
+  background-color: aliceblue;
+  border-radius: 15px;
+  margin-top: 300px;
+  padding: 23px;
+  width: 335px;
+  border-top:1px solid black ;
+  border-left: 1px solid black;
+  border-bottom:10px solid black ;
+  border-right:10px solid black ;
+}
+.img1 {
+  border-radius: 10px;
+ 
+}
+h1 {
+  border-radius: 5px;
+  background-color: hsl(47, 88%, 63%);
+  width: 130px;
+  font-size: 23px;
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  align-items: center;
+  
+}
+.p2{
+  color: gray ;
+}
+
+.div3{
+  
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.img2{
+  width: 45px;;
+}
