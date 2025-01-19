@@ -10,10 +10,9 @@ body {
   margin-top: 300px;
   padding: 23px;
   width: 335px;
-  border-top:1px solid black ;
-  border-left: 1px solid black;
-  border-bottom:10px solid black ;
-  border-right:10px solid black ;
+  border:1px solid black ;
+  box-shadow: 10px 10px black;
+  
 }
 .img1 {
   border-radius: 10px;
